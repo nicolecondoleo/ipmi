@@ -1,4 +1,5 @@
-//Acá va el link de tu video
+//Nicole condoleo 
+//https://drive.google.com/file/d/1qPA-nn8L9aE7O2o-eqjNIBRuwkrPmOX4/view?usp=sharing
 
 boolean usarColor = false;  // inicialmente no usa el color azul
 PImage imagen;
